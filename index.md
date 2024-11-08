@@ -1,9 +1,9 @@
 ---
 ---
 
-# nietianzong's Website
+# QingDao University BDA&CV Lab
 
-An engaging 1-3 sentence description of your lab.
+Welcome to our lab.
 
 {% include section.html %}
 
