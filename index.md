@@ -1,7 +1,7 @@
 ---
 ---
 
-# QingDao University BDA&CV Lab
+# QingDao University BDA&CV Lab.
 
 Welcome to our lab.
 
